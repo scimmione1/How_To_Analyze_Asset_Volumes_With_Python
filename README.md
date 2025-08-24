@@ -3,7 +3,9 @@
 This repository contains a Jupyter notebook that demonstrates how to analyze the volumes and prices of various financial assets (stocks) using Python, pandas, matplotlib, and plotly.
 
 ## Contents
+
 - **How_To_Analyze_Asset_Volumes_With_Python.ipynb**: Main notebook with all analysis, visualization, and export steps.
+- **talib_How_To_Analyze_Asset_Volumes_With_Python.ipynb**: Additional notebook demonstrating the use of TA-Lib to calculate and visualize volume-based indicators (AD, ADOSC, OBV) for selected stocks, including practical examples and entry signals.
 - **stock_data.csv**: CSV file with historical price and volume data for selected stocks.
 
 ## Main Features
